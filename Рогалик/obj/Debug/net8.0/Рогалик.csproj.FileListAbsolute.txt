@@ -1,0 +1,14 @@
+C:\Users\zoman\source\repos\Рогалик\bin\Debug\net8.0\Рогалик.exe
+C:\Users\zoman\source\repos\Рогалик\bin\Debug\net8.0\Рогалик.deps.json
+C:\Users\zoman\source\repos\Рогалик\bin\Debug\net8.0\Рогалик.runtimeconfig.json
+C:\Users\zoman\source\repos\Рогалик\bin\Debug\net8.0\Рогалик.dll
+C:\Users\zoman\source\repos\Рогалик\bin\Debug\net8.0\Рогалик.pdb
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\Рогалик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\Рогалик.AssemblyInfoInputs.cache
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\Рогалик.AssemblyInfo.cs
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\Рогалик.csproj.CoreCompileInputs.cache
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\Рогалик.dll
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\refint\Рогалик.dll
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\Рогалик.pdb
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\Рогалик.genruntimeconfig.cache
+C:\Users\zoman\source\repos\Рогалик\obj\Debug\net8.0\ref\Рогалик.dll
